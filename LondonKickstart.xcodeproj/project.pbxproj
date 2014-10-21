@@ -24,6 +24,8 @@
 		625A996D19F6784B00221D05 /* Collections1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections1.playground; sourceTree = "<group>"; };
 		625A996E19F67A5F00221D05 /* Collections2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections2.playground; sourceTree = "<group>"; };
 		625A996F19F67B8C00221D05 /* Collections3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections3.playground; sourceTree = "<group>"; };
+		625A997019F67DF100221D05 /* Collections4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections4.playground; sourceTree = "<group>"; };
+		625A997119F6807F00221D05 /* Collections5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections5.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -70,6 +72,8 @@
 				625A996D19F6784B00221D05 /* Collections1.playground */,
 				625A996E19F67A5F00221D05 /* Collections2.playground */,
 				625A996F19F67B8C00221D05 /* Collections3.playground */,
+				625A997019F67DF100221D05 /* Collections4.playground */,
+				625A997119F6807F00221D05 /* Collections5.playground */,
 			);
 			name = Collections;
 			sourceTree = "<group>";
