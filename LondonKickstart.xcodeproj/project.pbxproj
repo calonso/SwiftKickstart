@@ -26,6 +26,8 @@
 		625A996F19F67B8C00221D05 /* Collections3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections3.playground; sourceTree = "<group>"; };
 		625A997019F67DF100221D05 /* Collections4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections4.playground; sourceTree = "<group>"; };
 		625A997119F6807F00221D05 /* Collections5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Collections5.playground; sourceTree = "<group>"; };
+		625A997319F6843A00221D05 /* 03TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03TryThis.playground; sourceTree = "<group>"; };
+		625A997419F6844200221D05 /* 04ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 04ASwiftKickstart.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -35,6 +37,7 @@
 				620B81BE19F65524004ABFB7 /* Functions */,
 				625A996319F6687000221D05 /* Constants and Variables */,
 				625A996B19F6779400221D05 /* Collections */,
+				625A997219F6842600221D05 /* More Functions */,
 			);
 			sourceTree = "<group>";
 		};
@@ -74,8 +77,17 @@
 				625A996F19F67B8C00221D05 /* Collections3.playground */,
 				625A997019F67DF100221D05 /* Collections4.playground */,
 				625A997119F6807F00221D05 /* Collections5.playground */,
+				625A997319F6843A00221D05 /* 03TryThis.playground */,
 			);
 			name = Collections;
+			sourceTree = "<group>";
+		};
+		625A997219F6842600221D05 /* More Functions */ = {
+			isa = PBXGroup;
+			children = (
+				625A997419F6844200221D05 /* 04ASwiftKickstart.pdf */,
+			);
+			name = "More Functions";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
