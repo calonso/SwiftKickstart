@@ -37,6 +37,8 @@
 		625A997B19F69B2A00221D05 /* MoreFunctions7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoreFunctions7.playground; sourceTree = "<group>"; };
 		625A997D19F69C9E00221D05 /* 04TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04TryThis.playground; sourceTree = "<group>"; };
 		625A997E19F69CB000221D05 /* 05ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 05ASwiftKickstart.pdf; sourceTree = "<group>"; };
+		625A997F19F69CC300221D05 /* Classes1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes1.playground; sourceTree = "<group>"; };
+		625A998019F69E5100221D05 /* Classes2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -112,6 +114,8 @@
 			isa = PBXGroup;
 			children = (
 				625A997E19F69CB000221D05 /* 05ASwiftKickstart.pdf */,
+				625A997F19F69CC300221D05 /* Classes1.playground */,
+				625A998019F69E5100221D05 /* Classes2.playground */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
