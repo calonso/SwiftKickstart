@@ -12,6 +12,8 @@
 		625A995F19F65EEA00221D05 /* Functions2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions2.playground; sourceTree = "<group>"; };
 		625A996019F6636F00221D05 /* Functions3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions3.playground; sourceTree = "<group>"; };
 		625A996119F664F500221D05 /* Functions4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions4.playground; sourceTree = "<group>"; };
+		625A996219F6686300221D05 /* 01TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01TryThis.playground; sourceTree = "<group>"; };
+		625A996419F6688300221D05 /* 02ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 02ASwiftKickstart.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +21,7 @@
 			isa = PBXGroup;
 			children = (
 				620B81BE19F65524004ABFB7 /* Functions */,
+				625A996319F6687000221D05 /* Constants and Variables */,
 			);
 			sourceTree = "<group>";
 		};
@@ -30,8 +33,17 @@
 				625A995F19F65EEA00221D05 /* Functions2.playground */,
 				625A996019F6636F00221D05 /* Functions3.playground */,
 				625A996119F664F500221D05 /* Functions4.playground */,
+				625A996219F6686300221D05 /* 01TryThis.playground */,
 			);
 			name = Functions;
+			sourceTree = "<group>";
+		};
+		625A996319F6687000221D05 /* Constants and Variables */ = {
+			isa = PBXGroup;
+			children = (
+				625A996419F6688300221D05 /* 02ASwiftKickstart.pdf */,
+			);
+			name = "Constants and Variables";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

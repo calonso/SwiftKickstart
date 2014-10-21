@@ -1,5 +1,32 @@
-// Playground - noun: a place where people can play
+func hello11(name: String) -> String {
+    return "Hello, \(name)"
+}
 
-import UIKit
+hello11("Daniel")
 
-var str = "Hello, playground"
+func hello12(aListOfPeopleNamed people: String...) -> (count:Int, peopleList:String) {
+    var tempString = ""
+    for person in people {
+        tempString += person + "\n"
+    }
+    return (people.count, tempString)
+}
+
+let result = hello12(aListOfPeopleNamed: "Fred", "Stanley", "Lucy")
+
+result.count
+result.peopleList
+result.0
+result.1
+
+let (myCount, myList) = hello12(aListOfPeopleNamed: "Fred", "Stanley", "Lucy")
+
+myCount
+
+myList
+
+
+
+
+
+
