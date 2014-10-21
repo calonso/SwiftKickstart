@@ -57,6 +57,7 @@
 		625A999319F6B01100221D05 /* 08TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 08TryThis.playground; sourceTree = "<group>"; };
 		625A999419F6B03400221D05 /* Structs1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs1.playground; sourceTree = "<group>"; };
 		625A999519F6B10800221D05 /* Structs2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs2.playground; sourceTree = "<group>"; };
+		625A999619F6B24500221D05 /* Structs3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs3.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -167,6 +168,7 @@
 				625A999119F6B00500221D05 /* 07TryThis.playground */,
 				625A999419F6B03400221D05 /* Structs1.playground */,
 				625A999519F6B10800221D05 /* Structs2.playground */,
+				625A999619F6B24500221D05 /* Structs3.playground */,
 			);
 			name = Structs;
 			sourceTree = "<group>";
