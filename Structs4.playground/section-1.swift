@@ -13,15 +13,25 @@ postfix func ** (number: Double) -> Double {
 }
 
 struct Vertex {
-    var x, y :Double
+    var x: Double {
+        willSet(newValue) {
+            println("About to change x from \(x) to \(newValue)")
+        }
+        didSet(oldValue) {
+            println("Did change x from \(oldValue) to \(x)")
+        }
+    }
+    var y :Double
     var magnitude: Double {
         get {
             return √(x** + y**)
         }
         set(newValue) {
             let multiplier = newValue/magnitude
+            println("About to change")
             x *= multiplier
             y *= multiplier
+            println("did change")
         }
     }
 }
