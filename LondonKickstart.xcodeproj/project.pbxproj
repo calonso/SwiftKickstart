@@ -63,6 +63,7 @@
 		625A999919F6B76E00221D05 /* Structs6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs6.playground; sourceTree = "<group>"; };
 		625A999A19F6B7E600221D05 /* Structs7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs7.playground; sourceTree = "<group>"; };
 		625A999B19F6B92D00221D05 /* Protocols1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocols1.playground; sourceTree = "<group>"; };
+		625A999C19F6BCF400221D05 /* Protocols2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocols2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -188,6 +189,7 @@
 				625A999219F6B01100221D05 /* 08ASwiftKickstart.pdf */,
 				625A999319F6B01100221D05 /* 08TryThis.playground */,
 				625A999B19F6B92D00221D05 /* Protocols1.playground */,
+				625A999C19F6BCF400221D05 /* Protocols2.playground */,
 			);
 			name = Protocols;
 			sourceTree = "<group>";
