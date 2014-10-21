@@ -61,6 +61,8 @@
 		625A999719F6B59A00221D05 /* Structs4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs4.playground; sourceTree = "<group>"; };
 		625A999819F6B69D00221D05 /* Structs5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs5.playground; sourceTree = "<group>"; };
 		625A999919F6B76E00221D05 /* Structs6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs6.playground; sourceTree = "<group>"; };
+		625A999A19F6B7E600221D05 /* Structs7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structs7.playground; sourceTree = "<group>"; };
+		625A999B19F6B92D00221D05 /* Protocols1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocols1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -175,6 +177,7 @@
 				625A999719F6B59A00221D05 /* Structs4.playground */,
 				625A999819F6B69D00221D05 /* Structs5.playground */,
 				625A999919F6B76E00221D05 /* Structs6.playground */,
+				625A999A19F6B7E600221D05 /* Structs7.playground */,
 			);
 			name = Structs;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 			children = (
 				625A999219F6B01100221D05 /* 08ASwiftKickstart.pdf */,
 				625A999319F6B01100221D05 /* 08TryThis.playground */,
+				625A999B19F6B92D00221D05 /* Protocols1.playground */,
 			);
 			name = Protocols;
 			sourceTree = "<group>";
