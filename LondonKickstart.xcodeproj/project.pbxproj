@@ -14,6 +14,9 @@
 		625A996119F664F500221D05 /* Functions4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions4.playground; sourceTree = "<group>"; };
 		625A996219F6686300221D05 /* 01TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 01TryThis.playground; sourceTree = "<group>"; };
 		625A996419F6688300221D05 /* 02ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 02ASwiftKickstart.pdf; sourceTree = "<group>"; };
+		625A996519F668B500221D05 /* VariablesAndConstants1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariablesAndConstants1.playground; sourceTree = "<group>"; };
+		625A996619F66AEA00221D05 /* VariablesAndConstants2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariablesAndConstants2.playground; sourceTree = "<group>"; };
+		625A996719F6717A00221D05 /* VariablesAndConstants3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariablesAndConstants3.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -42,6 +45,9 @@
 			isa = PBXGroup;
 			children = (
 				625A996419F6688300221D05 /* 02ASwiftKickstart.pdf */,
+				625A996519F668B500221D05 /* VariablesAndConstants1.playground */,
+				625A996619F66AEA00221D05 /* VariablesAndConstants2.playground */,
+				625A996719F6717A00221D05 /* VariablesAndConstants3.playground */,
 			);
 			name = "Constants and Variables";
 			sourceTree = "<group>";
