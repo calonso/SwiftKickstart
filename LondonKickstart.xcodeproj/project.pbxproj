@@ -39,6 +39,8 @@
 		625A997E19F69CB000221D05 /* 05ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 05ASwiftKickstart.pdf; sourceTree = "<group>"; };
 		625A997F19F69CC300221D05 /* Classes1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes1.playground; sourceTree = "<group>"; };
 		625A998019F69E5100221D05 /* Classes2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes2.playground; sourceTree = "<group>"; };
+		625A998119F6A02F00221D05 /* Classes3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes3.playground; sourceTree = "<group>"; };
+		625A998219F6A12300221D05 /* Classes4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes4.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -116,6 +118,8 @@
 				625A997E19F69CB000221D05 /* 05ASwiftKickstart.pdf */,
 				625A997F19F69CC300221D05 /* Classes1.playground */,
 				625A998019F69E5100221D05 /* Classes2.playground */,
+				625A998119F6A02F00221D05 /* Classes3.playground */,
+				625A998219F6A12300221D05 /* Classes4.playground */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
