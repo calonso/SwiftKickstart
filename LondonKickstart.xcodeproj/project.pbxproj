@@ -33,6 +33,7 @@
 		625A997719F6864600221D05 /* MoreFunctions3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoreFunctions3.playground; sourceTree = "<group>"; };
 		625A997819F6870D00221D05 /* MoreFunctions4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoreFunctions4.playground; sourceTree = "<group>"; };
 		625A997919F694C800221D05 /* MoreFunctions5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoreFunctions5.playground; sourceTree = "<group>"; };
+		625A997A19F698DF00221D05 /* MoreFunctions6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoreFunctions6.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -96,6 +97,7 @@
 				625A997719F6864600221D05 /* MoreFunctions3.playground */,
 				625A997819F6870D00221D05 /* MoreFunctions4.playground */,
 				625A997919F694C800221D05 /* MoreFunctions5.playground */,
+				625A997A19F698DF00221D05 /* MoreFunctions6.playground */,
 			);
 			name = "More Functions";
 			sourceTree = "<group>";
