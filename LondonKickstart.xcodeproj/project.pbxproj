@@ -6,11 +6,24 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		620B81BF19F65597004ABFB7 /* 01ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 01ASwiftKickstart.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		620B81B719F6546B004ABFB7 = {
 			isa = PBXGroup;
 			children = (
+				620B81BE19F65524004ABFB7 /* Functions */,
 			);
+			sourceTree = "<group>";
+		};
+		620B81BE19F65524004ABFB7 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				620B81BF19F65597004ABFB7 /* 01ASwiftKickstart.pdf */,
+			);
+			name = Functions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
