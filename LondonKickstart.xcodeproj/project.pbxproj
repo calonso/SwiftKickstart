@@ -50,6 +50,11 @@
 		625A998A19F6AA0700221D05 /* Enumerations3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations3.playground; sourceTree = "<group>"; };
 		625A998B19F6AA8400221D05 /* Enumerations4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations4.playground; sourceTree = "<group>"; };
 		625A998C19F6AB6100221D05 /* Enumerations5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations5.playground; sourceTree = "<group>"; };
+		625A998D19F6AFB800221D05 /* 06TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 06TryThis.playground; sourceTree = "<group>"; };
+		625A999019F6B00500221D05 /* 07ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 07ASwiftKickstart.pdf; sourceTree = "<group>"; };
+		625A999119F6B00500221D05 /* 07TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 07TryThis.playground; sourceTree = "<group>"; };
+		625A999219F6B01100221D05 /* 08ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 08ASwiftKickstart.pdf; sourceTree = "<group>"; };
+		625A999319F6B01100221D05 /* 08TryThis.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 08TryThis.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -62,6 +67,8 @@
 				625A997219F6842600221D05 /* More Functions */,
 				625A997C19F69C8800221D05 /* Classes */,
 				625A998519F6A61300221D05 /* Enumerations */,
+				625A998E19F6AFBD00221D05 /* Structs */,
+				625A998F19F6AFC800221D05 /* Protocols */,
 			);
 			sourceTree = "<group>";
 		};
@@ -146,8 +153,27 @@
 				625A998A19F6AA0700221D05 /* Enumerations3.playground */,
 				625A998B19F6AA8400221D05 /* Enumerations4.playground */,
 				625A998C19F6AB6100221D05 /* Enumerations5.playground */,
+				625A998D19F6AFB800221D05 /* 06TryThis.playground */,
 			);
 			name = Enumerations;
+			sourceTree = "<group>";
+		};
+		625A998E19F6AFBD00221D05 /* Structs */ = {
+			isa = PBXGroup;
+			children = (
+				625A999019F6B00500221D05 /* 07ASwiftKickstart.pdf */,
+				625A999119F6B00500221D05 /* 07TryThis.playground */,
+			);
+			name = Structs;
+			sourceTree = "<group>";
+		};
+		625A998F19F6AFC800221D05 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				625A999219F6B01100221D05 /* 08ASwiftKickstart.pdf */,
+				625A999319F6B01100221D05 /* 08TryThis.playground */,
+			);
+			name = Protocols;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
