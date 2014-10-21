@@ -34,14 +34,15 @@ struct Vertex {
             println("did change")
         }
     }
-    mutating func moveByX(deltaX: Double) {
-        x += deltaX
+    func moveByX(deltaX: Double) -> Vertex {
+        return Vertex(x: x + deltaX, y: y)
     }
 }
 
 var point = Vertex(x: 3.0, y: 4.0)
 
-point.moveByX(100)
+point = point.moveByX(100)
+point
 
 
 
