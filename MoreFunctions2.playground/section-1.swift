@@ -1,5 +1,11 @@
-// Playground - noun: a place where people can play
+var numbers = [5, 2, 8, 3, 9, 4]
 
-import UIKit
+func emphasize(inout array: [Int]) {
+    for i in 0 ..< array.count {
+        array[i] = array[i] * 100
+    }
+}
 
-var str = "Hello, playground"
+emphasize(&numbers)
+
+numbers
