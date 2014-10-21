@@ -1,5 +1,29 @@
-// Playground - noun: a place where people can play
+class CocoaConfAttendee  {
+    let name: String
+    let hometown: String?
+    
+    init(name: String, hometown: String) {
+        self.name = name
+        self.hometown = hometown
+    }
+    
+    init(name: String) {
+        self.name = name
+    }
+    
+    func nameBadge() -> String {
+        let validHometown = hometown ?? "here and there"
+        return "Hello, I'm \(name) from \(validHometown)."
+    
+    }
+}
 
-import UIKit
+let daniel = CocoaConfAttendee(name: "Daniel", hometown: "Cleveland")
+daniel.name
+daniel.hometown
+daniel.nameBadge()
 
-var str = "Hello, playground"
+let kim = CocoaConfAttendee(name: "Kim")
+kim.name
+kim.hometown
+kim.nameBadge()
