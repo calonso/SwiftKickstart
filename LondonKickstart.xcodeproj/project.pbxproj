@@ -47,6 +47,7 @@
 		625A998719F6A63000221D05 /* 06ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 06ASwiftKickstart.pdf; sourceTree = "<group>"; };
 		625A998819F6A64700221D05 /* Enumerations1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations1.playground; sourceTree = "<group>"; };
 		625A998919F6A92A00221D05 /* Enumerations2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations2.playground; sourceTree = "<group>"; };
+		625A998A19F6AA0700221D05 /* Enumerations3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerations3.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -140,6 +141,7 @@
 				625A998719F6A63000221D05 /* 06ASwiftKickstart.pdf */,
 				625A998819F6A64700221D05 /* Enumerations1.playground */,
 				625A998919F6A92A00221D05 /* Enumerations2.playground */,
+				625A998A19F6AA0700221D05 /* Enumerations3.playground */,
 			);
 			name = Enumerations;
 			sourceTree = "<group>";
