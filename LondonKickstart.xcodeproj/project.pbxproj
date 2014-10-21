@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		620B81BF19F65597004ABFB7 /* 01ASwiftKickstart.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 01ASwiftKickstart.pdf; sourceTree = "<group>"; };
+		625A995E19F65A1200221D05 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -22,6 +23,7 @@
 			isa = PBXGroup;
 			children = (
 				620B81BF19F65597004ABFB7 /* 01ASwiftKickstart.pdf */,
+				625A995E19F65A1200221D05 /* Functions.playground */,
 			);
 			name = Functions;
 			sourceTree = "<group>";
