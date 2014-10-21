@@ -1,5 +1,14 @@
-// Playground - noun: a place where people can play
+enum CocoaConfTutorial: String {
+    case GameDevelopment = "Game Development"
+    case AVFoundation = "AV Foundation Film School"
+    case Swift = "A Swift Kickstart"
+    case AllDayiOS = "All Day iOS"
+    
+    var name: String {
+        return rawValue
+    }
+}
 
-import UIKit
 
-var str = "Hello, playground"
+var tutorial = CocoaConfTutorial.AVFoundation
+tutorial.name
